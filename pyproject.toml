@@ -11,6 +11,9 @@ dependencies = [
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
     "pydub>=0.25.1",
+    "seaborn>=0.13.2",
     "soundfile>=0.13.1",
     "tensorflow>=2.20.0",
+    "tensorflow-datasets>=4.9.9",
+    "tfds-nightly>=4.9.9.dev202510250044",
 ]
