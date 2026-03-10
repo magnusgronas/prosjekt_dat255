@@ -1,0 +1,8 @@
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="uv (prosjekt_dat255)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (prosjekt_dat255)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
